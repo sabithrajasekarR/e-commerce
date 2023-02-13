@@ -1,0 +1,26 @@
+.filter-main{
+    background-color: rgb(226, 224, 224);
+}
+
+.filter-header{
+    background-color: rgb(226, 224, 224);
+
+}
+
+.filter-icon{
+   margin-left: 25px;
+   font-size: 50px;
+   margin-top: 25px;
+}
+
+.check-filter{
+    text-align: left;
+    text-transform: capitalize;
+   
+}
+
+.check-filter div{
+    margin-top: 50px;
+    margin-left: 20%;
+    font-size: 22px;
+}

@@ -1,0 +1,46 @@
+.form-main{
+    margin: auto;
+   margin-top: 100px;
+   text-align: center;
+
+}
+
+.form-main input{
+   
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   border-bottom: 2px solid rgb(1, 0, 0);
+   background: transparent;
+   padding-bottom: 10px;
+}
+
+.p-login{
+    text-align: left ;
+}
+
+.form-main label{
+    font-size: 20px;
+    
+}
+
+.login-btn{
+    background-color: black;
+    color: white;
+    /* margin-left: 45%; */
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.form-main button:hover{
+    background-color: black;
+    color: white;
+}
+
+.form-main p{
+    text-align: center;
+    margin-top: 20px;
+    
+} 

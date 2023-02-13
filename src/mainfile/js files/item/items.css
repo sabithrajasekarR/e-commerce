@@ -1,0 +1,16 @@
+.item-card{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    
+}
+
+.product-name{
+    font-size: 25px !important;
+}
+
+.price{
+    font-size: 25px !important;
+    font-weight: bold;
+}

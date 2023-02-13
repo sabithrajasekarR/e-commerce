@@ -1,0 +1,38 @@
+.nav-main{
+    background-color: rgb(177, 174, 174);
+    color: red;
+ 
+}
+
+.homename{
+    color: black;
+    margin-left: 300px;
+}
+
+.search-box{
+    width: 600px;
+    height: 40px;
+    margin-left: 100px;
+    border-radius: 50px;
+    margin-top: 10px;
+    margin-left: 200px;
+    
+}
+
+.search-button{
+    background-color: rgb(37, 36, 36);
+    height: 40px;
+    margin-top: 10px;
+    
+}
+
+.product-offer img{
+    height: 15px;
+    margin-right: 10px;
+}
+
+.nav-icons{
+    display: flex !important;
+    justify-items: baseline !important;
+}
+

@@ -1,0 +1,13 @@
+.footer-main{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 140px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-con{
+   padding-top: 50px;
+}

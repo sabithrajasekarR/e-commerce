@@ -1,0 +1,10 @@
+.trendingProduct-main{
+    border: none;
+    text-align: center;
+}
+
+.trendingProduct-main img{
+    width: 200px;
+    height: 230px;
+    
+}

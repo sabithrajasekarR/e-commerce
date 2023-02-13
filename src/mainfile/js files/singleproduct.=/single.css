@@ -1,0 +1,39 @@
+.single-main{
+
+
+}
+
+.single-img{
+    width: 550px;
+    height: 550px;
+    margin: 80px;
+}
+
+.single-img img{
+    width: 400px;
+    height: 550px;
+}
+
+.single-img h2{
+text-transform: capitalize;
+}
+
+.product-detail{
+    margin-top: 50px;
+}
+
+.product-name{
+    font-size: 40px;
+    text-transform: uppercase;}
+
+.single-main button{
+    width: 120px;
+    height: 40px;
+    border-radius: 50px;
+    margin: 20px;
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+
+}
+
